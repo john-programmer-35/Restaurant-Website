@@ -15,4 +15,4 @@ I'm excited to present my project. Delicious is a my website name and it's respo
 
 **Delicioux Restaurant Demo video**
 <br>
-https://github.com/john-programmer-35/Restaurant-Website/blob/main/images/Delicioux%20Restaurant%20-%20Demo%20video.webm
+https://github.dev/john-programmer-35/Restaurant-Website/blob/main/images/Delicioux%20Restaurant%20-%20Demo%20video.webm
