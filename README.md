@@ -13,6 +13,4 @@ I'm excited to present my project. Delicious is a my website name and it's respo
  <li>Super amazing navbar page activate effect</li>
 </ul>
 
-**Delicioux Restaurant Demo video**
-<br>
-https://github.dev/john-programmer-35/Restaurant-Website/blob/main/images/Delicioux%20Restaurant%20-%20Demo%20video.webm
+ 
