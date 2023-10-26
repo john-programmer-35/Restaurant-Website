@@ -204,7 +204,7 @@ body {
   display: flex;
   height: 33px;
   line-height: 35px;
-  margin-right: 75px;
+  margin-right: 75px !important;
 }
 
 #header .container .search_box input{
@@ -213,7 +213,7 @@ body {
   border: 1px solid ;
   color: #fff;
   background: transparent;
-  height: 94%;
+  height: 94% !important;
   padding: 0 20px;
   font-size: 14px;
   width: 220px;
